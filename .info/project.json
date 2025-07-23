@@ -70,6 +70,11 @@
       "link": "https://react.dev/"
     },
     {
+      "name": "Redux",
+      "icon": "icon-redux",
+      "link": "https://react-redux.js.org/"
+    },
+    {
       "name": "HTML",
       "icon": "icon-html",
       "link": "https://html.spec.whatwg.org/multipage/"
