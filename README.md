@@ -3,10 +3,10 @@
 Сложный проект на ReactJS и TypeScript:
 * верстка компонентов через JSX
 * типизация
-* unit-тестирование Jest
-* React Hooks, React Router
+* Unit-тестирование Jest
+* React Hooks, React Router, React Redux
 * сборка через CRA
 ---
 Деплой проекта: https://six-cities-training.netlify.app/
 ---
-Шестой учебный проект в рамках курса React-разработчик от HTML Academy
+Шестой учебный проект в рамках курса JavaScript-разработчик от HTML Academy

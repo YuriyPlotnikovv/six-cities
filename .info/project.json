@@ -51,6 +51,16 @@
         "Adding comments",
         "Favorites list"
       ]
+    },
+    {
+      "name-ru": "Не реализовано",
+      "name-en": "Not Implemented",
+      "description-ru": [
+        "Адаптивность под разные устройства"
+      ],
+      "description-en": [
+        "Adaptability to different devices"
+      ]
     }
   ],
   "technologies": [
@@ -58,6 +68,11 @@
       "name": "React",
       "icon": "icon-react",
       "link": "https://react.dev/"
+    },
+    {
+      "name": "HTML",
+      "icon": "icon-html",
+      "link": "https://html.spec.whatwg.org/multipage/"
     },
     {
       "name": "CSS",
