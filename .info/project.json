@@ -1,93 +1,63 @@
 {
-  "id": 12,
-  "title-ru": "Six cities",
-  "title-en": "Six cities",
-  "textFirst-ru": "Сложный проект на ReactJS и TypeScript",
-  "textFirst-en": "Hard project on ReactJS ans TypeScript",
-  "textSecond-ru": "Шестой учебный проект, разработан в рамках курса JavaScript-разработчик от HTML Academy. Проект на разработку сложной клиентской логики с помощью ReactJS и TypeScript.",
-  "textSecond-en": "The sixth training project, developed as part of the JavaScript Developer course from HTML Academy. The project focuses on implementing complex client-side logic using ReactJS and TypeScript.",
-  "deploy": "https://six-cities-training.netlify.app/",
-  "features": [
-    {
-      "name-ru": "Дата разработки",
-      "name-en": "Development date",
-      "description-ru": [
-        "Июль 2025"
-      ],
-      "description-en": [
-        "July 2025"
-      ]
-    },
-    {
-      "name-ru": "Страницы",
-      "name-en": "Pages",
-      "description-ru": [
-        "Главная",
-        "Логин",
-        "Избранное",
-        "Детальная номера"
-      ],
-      "description-en": [
-        "Main",
-        "Login",
-        "Favorites",
-        "Room detailed"
-      ]
-    },
-    {
-      "name-ru": "Функциональность",
-      "name-en": "Functionality",
-      "description-ru": [
-        "Интеграция с сервером",
-        "Авторизация пользователя",
-        "Интерактивная карта Leaflet",
-        "Добавление комментариев",
-        "Список избранного"
-      ],
-      "description-en": [
-        "Server integration",
-        "User authentication",
-        "Interactive Leaflet map",
-        "Adding comments",
-        "Favorites list"
-      ]
-    },
-    {
-      "name-ru": "Не реализовано",
-      "name-en": "Not Implemented",
-      "description-ru": [
-        "Адаптивность под разные устройства"
-      ],
-      "description-en": [
-        "Adaptability to different devices"
-      ]
-    }
-  ],
+  "date": "07.2025",
+  "complexity": "2",
+  "category": "training",
+  "deploy": "https:\/\/six-cities-training.netlify.app\/",
+  "title": {
+    "ru": "Six cities",
+    "en": "Six cities"
+  },
+  "textFirst": {
+    "ru": "Сложный проект на ReactJS и TypeScript",
+    "en": "Hard project on ReactJS ans TypeScript"
+  },
+  "textSecond": {
+    "ru": "Шестой учебный проект, разработан в рамках курса JavaScript-разработчик от HTML Academy. Проект на разработку сложной клиентской логики с помощью ReactJS и TypeScript.",
+    "en": "The sixth training project, developed as part of the JavaScript Developer course from HTML Academy. The project focuses on implementing complex client-side logic using ReactJS and TypeScript."
+  },
+  "functionality": {
+    "ru": [
+      "Интеграция с сервером",
+      "Авторизация пользователя",
+      "Интерактивная карта Leaflet",
+      "Добавление комментариев",
+      "Список избранного"
+    ],
+    "en": [
+      "Server integration",
+      "User authentication",
+      "Interactive Leaflet map",
+      "Adding comments",
+      "Favorites list"
+    ]
+  },
   "technologies": [
-    {
-      "name": "React",
-      "icon": "icon-react",
-      "link": "https://react.dev/"
-    },
-    {
-      "name": "Redux",
-      "icon": "icon-redux",
-      "link": "https://react-redux.js.org/"
-    },
-    {
-      "name": "HTML",
-      "icon": "icon-html",
-      "link": "https://html.spec.whatwg.org/multipage/"
-    },
-    {
-      "name": "CSS",
-      "icon": "icon-css",
-      "link": "https://www.w3.org/Style/CSS/"
-    },
-    {
-      "name": "TypeScript",
-      "icon": "icon-ts",
-      "link": "https://www.typescriptlang.org/"
-    }
-  ]
+    "react",
+    "redux",
+    "html",
+    "css",
+    "typescript"
+  ],
+  "pages": {
+    "ru": [
+      "Главная",
+      "Логин",
+      "Избранное",
+      "Детальная номера"
+    ],
+    "en": [
+      "Main",
+      "Login",
+      "Favorites",
+      "Room detailed"
+    ]
+  },
+  "notImplemented": {
+    "ru": [
+      "Адаптивность под разные устройства"
+    ],
+    "en": [
+      "Adaptability to different devices"
+    ]
+  }
 }
