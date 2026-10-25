@@ -7,6 +7,6 @@
 * React Hooks, React Router, React Redux
 * сборка через CRA
 ---
-Деплой проекта: https://six-cities-training.netlify.app/
+Деплой проекта: https://six-cities-training.yp-projects.ru/
 ---
 Шестой учебный проект в рамках курса JavaScript-разработчик от HTML Academy
